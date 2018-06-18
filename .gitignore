@@ -1,4 +1,7 @@
-train/
+itrain/
 test/
+bad_images/
+saved_models/
+train_set/
 test.zip
 train.zip
