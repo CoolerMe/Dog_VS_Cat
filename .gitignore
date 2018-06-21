@@ -1,4 +1,6 @@
-itrain/
+train/
+test_set/
+*.h5
 test/
 bad_images/
 saved_models/
