@@ -1,4 +1,6 @@
 train/
+valid_set2/
+valid_set/
 test_set/
 *.h5
 test/
